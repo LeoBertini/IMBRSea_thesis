@@ -1,0 +1,13 @@
+CAPTION:
+
+North Atlantic layers at 500, 1000 and 2000 m deep and meridional section of Time of Recovery (Trec in years since start of the simulation) based on an envelope of 2 standard deviations for 
+
+17.1) Temperature (T) , 
+17.2) pH, 
+17.3) Dissolved Oxygen (DO) , 
+17.4) Apparent Oxygen Utilization (AOU) and 
+17.5) Calcite saturation state (Ωc) .
+
+The white contour lines also show the model year in which the time series retuned to the envelope. 
+Brown-shaded areas indicate recovery outside the time span of the simulation, where recovery estimates were calculated using 
+a linear regression based on the last 100 years of the time series. 
