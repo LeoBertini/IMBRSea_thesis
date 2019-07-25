@@ -11,3 +11,18 @@ Leonardo Barreto Mourão Bertini – 01701730
 Supervisor: Dr. Jerry Tjiputra
 
 contact email: leonardo.bertini@imbrsea.eu
+
+DESCRIPTION OF APPENDICES:
+
+01 - Vertical interpolation code for transforming isopycnal fields into depth fields. 
+02 - Routine to obtain the annual average for Biogeochemical fields (Dissolved Oxygen, pH, Omega calcite, POCexport).
+03 - Filtering routine to remove unusual spikes along the time-series while preserving meaningful fluctuations.
+04 - Routine to obtain the annual average for Physical fields (Temperature and Salinity).
+05 - Calculation of Aparent Oxygen Utilization (AOU) 
+06 - Time scale analyses of Maxchange, Time of Departure (ToD) and Time of Recovery (Trec)
+07 - Statistical analyses comparing the Pre-Industrial against 30-yr windowns: 1) end of the Mitigation phase (years 250-280), 2) the middle of the Extension phase (years 350-380) and 3) end of the Extension phase (years 450-480)
+08 - 
+09 -
+10 -
+11 -
+12 -
