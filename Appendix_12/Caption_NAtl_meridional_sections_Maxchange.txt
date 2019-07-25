@@ -1,0 +1,10 @@
+North Atlantic layers at 500, 1000 and 2000 m deep and meridional section of the maximum value that is responsible for the 
+maximum absolute difference from the Pre-industrial mean over the entire simulation for 
+
+8.1) Temperature (T [°C ]) , 
+8.2) pH, 
+8.3) Dissolved Oxygen (DO [µmol kg-1]) , 
+8.4) Apparent Oxygen Utilization (AOU [µmol kg-1]) and 
+8.5) Calcite saturation state (Ωc) .
+
+The white contour lines show the model year in which the maximum change signal was detected
