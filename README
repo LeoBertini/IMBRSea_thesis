@@ -26,3 +26,15 @@ DESCRIPTION OF APPENDICES:
 10 - Meridional sections for Maxchange and Time-scales (ToD and Trec) 
 11 - High resolution images for NAtl meridional sections of Maxhchange 
 12 - High resolution images for NAtl meridional sections of Trec 
+
+DESCRIPTION OF POST-PROCESSED DATA
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+''.../NorESM_Post_Processed/Statistical_Analyses''
+Contains percentage change and the statistical comparisson  results between Pre-Industrial and: 
+1) years 250-280; 
+2) years 350-380 and 
+3) years 350-380
+
+Files are for each variable : pH, AOU, o2sat (oxygen saturation), o2 (dissolved oxygen), omegac( Calcite Saturation State), templvl (temperature), epc100 (POCexport)
++++++++++++++++++++++++++++++++++++++++++++++++++++++
